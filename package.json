@@ -1,0 +1,13 @@
+{
+  "name": "singapore-career-pathfinder",
+  "version": "1.0.0",
+  "description": "Promotional website for Singapore Career Pathfinder",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.0",
+    "express": "^4.21.0"
+  }
+}
